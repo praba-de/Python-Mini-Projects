@@ -5,9 +5,9 @@
 #A simple Python command-line quiz game.
 
 ### Features
-#  Multiple computer-related questions
-# Score tracking
-# Percentage result
+#--Multiple computer-related questions
+#--Score tracking
+#--Percentage result
 
 ### Run the project
 
