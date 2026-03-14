@@ -53,7 +53,7 @@ Python-MINI-Projects
 
 1. Clone the repository
 
-git clone https://github.com/praba-de/Python-MINI-Projects.git
+git clone https://github.com/praba-de/Python-Mini-Projects.git
 
 2. Navigate to the project folder
 
